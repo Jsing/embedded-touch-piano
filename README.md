@@ -1,3 +1,4 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJsing%2Fembedded-touch-piano&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 # embedded-touch-piano
 대학생 임베디드시스템 설계 시간 자유 과제로 만든 Linux 기반 임베디드 Touch 피아노입니다.
